@@ -127,7 +127,7 @@ if(!extent(chm)==extent(ptShape)) {
 ```
 
 ***
-![]("final_plot.pdf")
+![](final_plot.pdf)
 
 ```{r eval=FALSE, echo=TRUE}
 plot(chm1, col=terrain.colors(10), 
