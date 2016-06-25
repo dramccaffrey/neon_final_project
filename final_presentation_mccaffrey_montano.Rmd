@@ -127,9 +127,14 @@ if(!extent(chm)==extent(ptShape)) {
 ```
 
 ***
+<<<<<<< HEAD
 ![](final_plot.pdf)
+=======
+>>>>>>> 198efb7d4d7279e959e6a5979e7b3d15261367da
 
-```{r eval=FALSE, echo=TRUE}
+![](final_itc_plot.png)
+
+```{r eval=FALSE, echo=FALSE}
 plot(chm1, col=terrain.colors(10), 
      main="CHM for SJER Plot 37\nSan Joaquin Experimental Range",
      xlab = "UTM Long",
